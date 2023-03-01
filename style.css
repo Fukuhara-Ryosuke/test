@@ -1,0 +1,4 @@
+.parent {
+  display: flex;
+  justify-content: space-between; /* 子要素を均等に横配置する設定 */
+}
